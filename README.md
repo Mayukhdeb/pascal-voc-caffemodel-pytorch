@@ -1,5 +1,5 @@
 # pascal-voc-caffemodel-pytorch
-Port of the original Pascal VOC 2012 multilabel classification model from caffe to pytorch
+Port of the original [Pascal VOC 2012 multilabel classification caffemodel](https://github.com/BVLC/caffe/wiki/Model-Zoo#pascal-voc-2012-multilabel-classification-model) to pytorch
 
 ## Usage
 
