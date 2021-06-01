@@ -32,7 +32,7 @@ results = P.predict_from_filename(
 
 ## Plotting results 
 
-```
+```python
 import matplotlib.pyplot as plt
 
 fig, ax = plt.subplots(nrows=1, ncols=2, figsize = (10 , 5))
@@ -43,4 +43,4 @@ ax[1].bar(results['classnames'] ,results['logits'])
 fig.savefig('out.jpg')
 ```
 
-<img src = 'images/out.jpg' width = "40%">
+<img src = 'images/out.jpg' width = "70%">
